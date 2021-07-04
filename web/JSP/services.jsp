@@ -65,7 +65,7 @@
                                     <hr>
                                     <div class="card-block">
                                         <h4 class="card-title">Startup Compliance Package</h4>
-                                        <p class="card-text">Some example text some example text. John Doe is an architect and engineer engineer</p>
+                                        <p class="card-text"> This package is for startups who are registered under startup india scheme </p>
                                         <!--<a href="#" class="btn btn-primary btn-primary1">See Profile</a>-->
                                     </div>
                                 </div>
