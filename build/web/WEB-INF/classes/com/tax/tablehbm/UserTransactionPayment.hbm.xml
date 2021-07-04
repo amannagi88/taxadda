@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="com.tax.tableentities.UserTransactionPayment" table="tax_user_transaction_payment">
+        <id name="paymentId" type="java.lang.Integer">
+            <column name="payment_id" />
+            <generator class="native" />
+        </id>
+        <property name="bankAmt" >
+            <column name="bank_amt"  />
+        </property>  
+        <property name="bankTransactionNo" >
+            <column name="bank_transaction_no"  />
+        </property>   
+        <property name="bankVerified" >
+            <column name="bank_verified"/>
+        </property>                          
+        <property name="orderId" >
+            <column name="order_id"/>
+        </property>                                  
+        <property name="transactionAmt" >
+            <column name="transaction_amt"/>
+        </property>          
+        <property name="transactionDate" >
+            <column name="transaction_dt"/>
+        </property>          
+        <property name="transactionId" >
+            <column name="transaction_id"/>
+        </property>                  
+        <property name="activeStatus" type="int">
+            <column name="active_status"/>
+        </property>
+        <property name="createDt" type="timestamp">
+            <column name="create_dt" length="20" />
+        </property>
+        <property name="updateDt" type="timestamp">
+            <column name="update_dt" length="20" />
+        </property>
+        
+    </class>
+</hibernate-mapping>
