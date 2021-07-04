@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="com.tax.tableentities.UserDetails" table="tax_user_details">
+        <id name="entityId" type="java.lang.Integer">
+            <column name="entity_id" />
+            <generator class="native" />
+        </id>
+        <property name="firstName" type="string">
+            <column name="first_name" length="100" />
+        </property>
+        <property name="lastName" type="string">
+            <column name="last_name" length="100" />
+        </property>
+        <property name="middleName" type="string">
+            <column name="middle_name" length="100" />
+        </property>
+        <property name="dateOfBirth" type="string">
+            <column name="date_of_birth" length="20" />
+        </property>
+        <property name="dateOfJoining" type="string">
+            <column name="date_of_joining" length="20" />
+        </property>
+        <property name="activeStatus" type="int">
+            <column name="active_status"/>
+        </property>
+        <property name="createDt" type="timestamp">
+            <column name="create_dt" length="20" />
+        </property>
+        <property name="updateDt" type="timestamp">
+            <column name="update_dt" length="20" />
+        </property>
+        
+    </class>
+</hibernate-mapping>

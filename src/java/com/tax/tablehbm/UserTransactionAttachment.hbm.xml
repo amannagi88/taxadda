@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="com.tax.tableentities.UserTransactionAttachment" table="tax_user_transaction_attachment">
+        <id name="attachmentId" type="java.lang.Integer">
+            <column name="attach_id" />
+            <generator class="native" />
+        </id>
+        <property name="transactionId" type="java.lang.Integer">
+            <column name="transaction_id" length="100" />
+        </property>  
+        <property name="transactionIdStr" type="string">
+            <column name="transaction_id_str" length="50" />
+        </property>   
+        <property name="attachment"  type="binary">
+            <column name="user_attachment"/>
+        </property>          
+        <property name="activeStatus" type="int">
+            <column name="active_status"/>
+        </property>
+        <property name="createDt" type="timestamp">
+            <column name="create_dt" length="20" />
+        </property>
+        <property name="updateDt" type="timestamp">
+            <column name="update_dt" length="20" />
+        </property>
+        
+    </class>
+</hibernate-mapping>
