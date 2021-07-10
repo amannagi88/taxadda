@@ -65,7 +65,8 @@
                                     <hr>
                                     <div class="card-block">
                                         <h4 class="card-title">Startup Compliance Package</h4>
-                                        <p class="card-text"> This package is for startups who are registered under startup india scheme </p>
+                                        <p class="card-text"> This Package is for Startups who have just started or who ants to start business, it covers Business Registration, Tax Registrations, Basic Accounting, GST and Income Tax Compliances for business having upto 100 transactions per month
+ </p>
                                         <!--<a href="#" class="btn btn-primary btn-primary1">See Profile</a>-->
                                     </div>
                                 </div>
@@ -78,7 +79,7 @@
                                     <hr>    
                                     <div class="card-block">
                                         <h4 class="card-title">Medium Compliance Package</h4>
-                                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                        <p class="card-text">This Package is for Medium Sized Businesses , it covers all applicable legal and taxation compliances including Accounting for your businss, GST, Income Tax Compliances, ROC Compliances etc  for business .</p>
                                         <!--<a href="#" class="btn btn-primary btn-primary1">Learn More</a>-->
                                     </div>
                                 </div>
@@ -91,7 +92,7 @@
                                     <hr>
                                     <div class="card-block">
                                         <h4 class="card-title">Premium Package</h4>
-                                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                        <p class="card-text"This Package includes all features of Medium Enterprise Package plus you get dedicated Virtual Accounts Manager for your company, Full support of team of CA, CS and lawyers related to any of your business query and Monthly Reports/ MIS  .</p>
                                         <!--<a href="#" class="btn btn-primary">Learn More</a>-->
                                     </div>
                                 </div>
@@ -154,7 +155,8 @@
                                 <div class="card border-secondary mb-3" style="padding:0px !important">    
                                     <div class="card-header">Business Registration / Incorporation</div>
                                     <div class="card-body text-primary">                                        
-                                        <p class="card-text">Some example text some example text. John Doe is an architect and engineer engineer</p>
+                                        <p class="card-text">Incorporate your company and give your business a legal identity starting at 9999/- + Govt. Fees
+</p>
                                         <a href="#" class="btn btn-primary btn-primary1">Select</a>
                                     </div>
                                 </div>
@@ -163,7 +165,8 @@
                                 <div class="card border-secondary mb-3" style="padding:0px !important">    
                                     <div class="card-header">Digital Accounting</div>
                                     <div class="card-body text-primary">                                        
-                                        <p class="card-text">Some example text some example text. John Doe is an architect and engineer engineer</p>
+                                        <p class="card-text">In this digital Era, your company’s accounting process needs to go digital to save unnecessary expense and to experience contact less high quality accounting service starting at just 2999/- per month 
+</p>
                                         <a href="#" class="btn btn-primary btn-primary1">Book</a>
                                     </div>
                                 </div>
@@ -172,7 +175,8 @@
                                 <div class="card border-secondary mb-3" style="padding:0px !important">    
                                     <div class="card-header">GST</div>
                                     <div class="card-body text-primary">                                        
-                                        <p class="card-text">Some example text some example text. John Doe is an architect and engineer engineer</p>
+                                        <p class="card-text">If you are registered under GST, but your business is just at starting stage, you can hire us for your GST Return filing to avoid heavy penalties, starting at Rs 499/- 
+</p>
                                         <a href="#" class="btn btn-primary btn-primary1">Select</a>
                                     </div>
                                 </div>
@@ -181,16 +185,18 @@
                                 <div class="card border-secondary mb-3" style="padding:0px !important">    
                                     <div class="card-header">TDS Returns</div>
                                     <div class="card-body text-primary">                                        
-                                        <p class="card-text">Some example text some example text. John Doe is an architect and engineer engineer</p>
+                                        <p class="card-text">If you have deducted TDS, you have to file TDS Returns, you cana hire us for this service starting from 499/- per TDS return
+</p>
                                         <a href="#" class="btn btn-primary btn-primary1">Book</a>
                                     </div>
                                 </div>
                             </div>
                             <div class='col-md-4'>
                                 <div class="card border-secondary mb-3" style="padding:0px !important">    
-                                    <div class="card-header">Income Tax</div>
+                                    <div class="card-header">Income Tax Return</div>
                                     <div class="card-body text-primary">                                        
-                                        <p class="card-text">Some example text some example text. John Doe is an architect and engineer engineer</p>
+                                        <p class="card-text">Give Basic details and Upload your docs, our executive will call you within 10 minutes and will assist you and file your ITR. Price Starting at 499/-
+</p>
                                         <a href="#" class="btn btn-primary btn-primary1">Select</a>
                                     </div>
                                 </div>
@@ -200,34 +206,17 @@
                                 <div class="card border-secondary mb-3" style="padding:0px !important">    
                                     <div class="card-header">Audit</div>
                                     <div class="card-body text-primary">                                        
-                                        <p class="card-text">Some example text some example text. John Doe is an architect and engineer engineer</p>
+                                        <p class="card-text">We provide Income Tax Audit, Statutory Audit and Internal Audit Services suitable to the nature and size of your business</p>
                                         <a href="#" class="btn btn-primary btn-primary1">Select</a>
                                     </div>
                                 </div>
                             </div>
-                            <div class='col-md-4'>
-                                <div class="card border-secondary mb-3" style="padding:0px !important">    
-                                    <div class="card-header">Payroll Services</div>
-                                    <div class="card-body text-primary">                                        
-                                        <p class="card-text">Some example text some example text. John Doe is an architect and engineer engineer</p>
-                                        <a href="#" class="btn btn-primary btn-primary1">Book</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class='col-md-4'>
-                                <div class="card border-secondary mb-3" style="padding:0px !important">    
-                                    <div class="card-header">Hire Staff</div>
-                                    <div class="card-body text-primary">                                        
-                                        <p class="card-text">Some example text some example text. John Doe is an architect and engineer engineer</p>
-                                        <a href="#" class="btn btn-primary btn-primary1">Book</a>
-                                    </div>
-                                </div>
-                            </div>
+                           
                             <div class='col-md-4'>
                                 <div class="card border-secondary mb-3" style="padding:0px !important">    
                                     <div class="card-header">Business Agreements</div>
                                     <div class="card-body text-primary">                                        
-                                        <p class="card-text">Some example text some example text. John Doe is an architect and engineer engineer</p>
+                                        <p class="card-text"> For safeguarding every transaction,your business needs specific agreements like NDA's NCA's etc, our team will assist you in drafting all necessary agreements </p>
                                         <a href="#" class="btn btn-primary btn-primary1">Book</a>
                                     </div>
                                 </div>
